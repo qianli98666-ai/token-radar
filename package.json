@@ -1,0 +1,1 @@
+{"description":"Token launch radar for make.fun's token-radar-01 bounty: ranks pre-token protocols by implied value.","engines":{"node":">=22"},"license":"MIT","name":"token-radar","private":true,"type":"module","version":"1.0.0"}
